@@ -778,7 +778,7 @@
         }
       },
       {
-        "name": "CNS_COVID19_FOLLOWUP",
+        "name": "CNS_COVID19_FOLLOWUP_V2_UQ",
         "showIntroduction": true,
         "questionnaire": {
           "repository": "https://raw.githubusercontent.com/UQ-ART-Hub/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
@@ -829,7 +829,7 @@
         }
       },
       {
-        "name": "CNS_COVID19_FOLLOWUP_V3",
+        "name": "CNS_COVID19_FOLLOWUP_V3_UQ",
         "showIntroduction": true,
         "questionnaire": {
           "repository": "https://raw.githubusercontent.com/UQ-ART-Hub/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
