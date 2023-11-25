@@ -1,10 +1,9 @@
 # Protocols
 
-Each directory is analogous to a RADAR project in the Management Portal, where a specific protocol applies.
+Each directory contains the protocol for each of the corresponding ART-Hub RADAR-Base projects, defined within the Management Portal <https://arthub-radarbase.cloud.edu.au/managementportal/#/>. 
 
-The documentation on the protocol structure can be found on <https://radar-base.github.io/RADAR-aRMT-protocols/>.
+The documentation on the protocol structure can be found within the ART-Hub MS Teams, or on <https://radar-base.github.io/RADAR-aRMT-protocols/>.
 
-More documentation to come.
 
 ## Protocol validation
 
